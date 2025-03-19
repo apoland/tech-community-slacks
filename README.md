@@ -114,7 +114,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
   - [Chicago Engineering and Tech Communities and Organizations](https://github.com/driscoll42/chicago-engineering-and-tech-communities) - Contains a list of active Chicago based slacks/discords
   - [Chicago Tech Diversity Initiative](http://www.chitechdiversity.com/)
   - [Chicago Tech Slack](https://join.slack.com/t/chicago-tech/shared_invite/zt-1cb3mexrp-Ri0DCePyYaXSuEg8qPUCTA)
-- IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
+- IN - [Indy Hackers](http://indyhackers.org/)
 - KS - [devICT](https://devict-slackin.herokuapp.com/)
 - KY - [Louisville.io] (http://louisville.io) & (http://louisville.slack.com)
 - MI - **In Michigan there are several amazing channels:**
